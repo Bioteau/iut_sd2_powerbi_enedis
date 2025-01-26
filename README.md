@@ -4,9 +4,7 @@
 
 ## Création PowerBI
 
-Premier script pour la création dans le fichier "Code R API"  dans le github qui va chercher les données dans l'API, ce code doit être lancer deux fois et il faut remplacer, le "neuf" par "existant".
-Deuxième script dans le fichier "Traitement BDD 01" dans le github qui traite la BDD afin d'avoir les points gps propre et rajouter une colonne avec "neuf" ou "existant.
-La BDD est stocké dans le fichier "DATA" en csv sur le github.
+Fichier PowerBI avec 3 onglets, le premier onglet contient les données des consommations des logements dans l'ain, dans le deuixème onglet les logements du Rhône et dans le dernier onglet un comparatif de ces 2 départements.
 
 ## Rendu
 
